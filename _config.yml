@@ -1,1 +1,5 @@
-theme: jekyll-theme-midnight
+title: Personal Page Asmaelrebo
+description: Using jekyll-theme-hacker.
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-hacker
