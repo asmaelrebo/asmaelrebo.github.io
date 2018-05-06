@@ -1,15 +1,14 @@
 ---
 layout: default
 ---
+- Software Engineer
+- Backend Developer
+- Scout
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# My Info
+[LinkedIn](https://www.linkedin.com/in/gabrielrebolledoespinoza).
+[Twitter](https://twitter.com/rebo_91).
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# My repositories and tests
+[Github](https://github.com/asmaelrebo).
